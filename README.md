@@ -9,4 +9,4 @@ A responsive landing page built with HTML and CSS.
 - Built with CSS Grid, Flexbox, and clamp()
 
 ## Live Demo
-https://danamelhelou.github.io/landing-page/
+https://danamelhelou-code.github.io/landing-page/
